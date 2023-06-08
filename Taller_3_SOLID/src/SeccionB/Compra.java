@@ -1,6 +1,6 @@
 package SeccionB;
 import java.util.*;
-import Interfaces.MetedoPago;
+import Interfaces.MetodoPago;
 
 public class Compra{
 	
@@ -8,7 +8,7 @@ public class Compra{
 	private List articulos;
 	
 	
-	public Compra(MetedoPago pago) {
+	public Compra(MetodoPago pago) {
 		//inicializaciones
 	}
 	

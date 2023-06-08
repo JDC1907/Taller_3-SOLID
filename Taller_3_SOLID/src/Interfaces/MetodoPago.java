@@ -1,6 +1,6 @@
 package Interfaces;
 
-public interface MetedoPago {
+public interface MetodoPago {
 	
     public  void realizarCobro(double monto);
 	

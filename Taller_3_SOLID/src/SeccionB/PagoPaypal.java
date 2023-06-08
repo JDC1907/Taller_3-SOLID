@@ -1,8 +1,8 @@
 package SeccionB;
-import Interfaces.MetedoPago;
+import Interfaces.MetodoPago;
 
 
-public class PagoPaypal implements MetedoPago {
+public class PagoPaypal implements MetodoPago {
 	
 	private boolean loggedIn;
 	
