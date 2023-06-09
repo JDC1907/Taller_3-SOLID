@@ -4,7 +4,6 @@ import Interfaces.MetodoPago;
 
 public class Compra{
 	
-	//private  Metodo_de_pago pago;
 	private List articulos;
 	
 	
@@ -17,7 +16,7 @@ public class Compra{
 	}
 	
 	public void removerArticulo(Articulo articulo) {
-		
+		//remover un articulo de la compra
 	}
 
 }

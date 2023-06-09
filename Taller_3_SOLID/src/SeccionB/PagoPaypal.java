@@ -17,11 +17,11 @@ public class PagoPaypal implements MetodoPago {
 
 }
 	public void calcularImpuestosFactura() {
-		// TODO Auto-generated method stub
+		// calcular los impuesto asociados a la compra
 		
 	}
 	public void generarFactura() {
-		// TODO Auto-generated method stub
+		// generar una nueva factura
 		
 	}
 }
